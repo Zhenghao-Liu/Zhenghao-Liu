@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning `server development`
 - 👯 I’m looking to collaborate on `someone like you`
 - 🤔 I’m looking for help with `development knowledge`
-- 💬 Code language: `Cpp, Mysql`
+- 💬 Code language: `Cpp, Mysql，Go`
 - 📫 How to contact me: `2017133132@email.szu.edu.cn`
 - 😄 Pronouns: `阿正 | 阿歪 | 阿y`
