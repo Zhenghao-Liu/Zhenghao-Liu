@@ -4,8 +4,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhenghao-Liu&show_icons=true&count_private=true&hide=issues&hide_title=true" />
 </a>
 
-- 🔭 I’m currently working on `preparing for the interview`
-- 🌱 I’m currently learning `server development`
+- 🔭 I’m currently working on `development`
+- 🌱 I’m currently learning `Go`
 - 👯 I’m looking to collaborate on `someone like you`
 - 🤔 I’m looking for help with `development knowledge`
 - 💬 Code language: `Cpp, Mysql，Go`
